@@ -1,0 +1,8 @@
+CHÚ Ý KẾT NỐI SQL:
+trong bài nhóm em có mấy form phải kết nối riêng nên khi kết nối cần thay đổi đường liên kết ở các form
+
++ Traphong_controller.java
++ Dichvu_controller.java
++ Truyvankaraoke.java
++ KetnoiKaraoke.java
++ QL_Karaoke.java
